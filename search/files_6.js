@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['terminal_2ecpp_441',['Terminal.cpp',['../Terminal_8cpp.html',1,'']]],
-  ['terminal_2eh_442',['Terminal.h',['../Terminal_8h.html',1,'']]]
+  ['speakbubbles_2eh_442',['SpeakBubbles.h',['../SpeakBubbles_8h.html',1,'']]],
+  ['storage_2eh_443',['storage.h',['../storage_8h.html',1,'']]]
 ];

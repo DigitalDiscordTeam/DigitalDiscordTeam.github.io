@@ -15,7 +15,8 @@ var searchData=
   ['deletedirerror_65',['DeleteDirError',['../classDeleteDirError.html',1,'']]],
   ['deletefile_66',['deleteFile',['../namespaceInternalFsys_1_1sys.html#ae299d7b246be7f35a823f3cc70b3931d',1,'InternalFsys::sys']]],
   ['delstor_67',['delStor',['../namespaceInternalFsys.html#a53dfceaa9882278a8c98d0024153a630',1,'InternalFsys']]],
-  ['dirmakeerror_68',['DirMakeError',['../classDirMakeError.html',1,'']]],
-  ['dirpathexits_69',['dirPathExits',['../namespaceSystem.html#ac5ec3158b49fe53894e283a64744542f',1,'System']]],
-  ['dopaths_70',['doPaths',['../namespaceSystem.html#a93eece6cbb61de03e831a1a9896c8804',1,'System']]]
+  ['digitaldiscord_68',['DigitalDiscord',['../index.html',1,'']]],
+  ['dirmakeerror_69',['DirMakeError',['../classDirMakeError.html',1,'']]],
+  ['dirpathexits_70',['dirPathExits',['../namespaceSystem.html#ac5ec3158b49fe53894e283a64744542f',1,'System']]],
+  ['dopaths_71',['doPaths',['../namespaceSystem.html#a93eece6cbb61de03e831a1a9896c8804',1,'System']]]
 ];
